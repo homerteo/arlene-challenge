@@ -3,7 +3,6 @@ import { World } from './World/World.js';
 
 function showScene() {
     document.getElementById("loader").style.display = "none";
-    // document.getElementById("scene-container").style.display = "block";
 }
 
 async function main() {
